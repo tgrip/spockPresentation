@@ -1,0 +1,5 @@
+= Spock presentation
+
+== Sources
+
+* Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
