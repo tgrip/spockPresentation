@@ -3,3 +3,4 @@
 == Sources
 
 * Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
+* Einführung in das Testen mit Spock und Groovy https://www.codeflow.site/de/article/groovy-spock
