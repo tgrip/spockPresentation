@@ -23,11 +23,13 @@ class FixtureTest extends Specification {
     def "GStrings in tha house"() {
         given:
         def name = "Elvis"
+        def repeat = "a" * 3
 
         when:
         def result = "Hello, ${name}"
 
         then:
         result == "Hello, Elvis"
+        repeat == 'aaa'
     }
 }
