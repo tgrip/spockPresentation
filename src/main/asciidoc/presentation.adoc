@@ -1,5 +1,13 @@
 = Spock presentation
 
+== Groovy
+
+* Similar to Java
+* Optional typing
+* Collections
+* No more setters and getters
+* Metaprogramming
+
 == Sources
 
 * Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
