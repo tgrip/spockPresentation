@@ -8,12 +8,21 @@
 * No more setters and getters
 * Metaprogramming
 
-== Sources
+== Spock presentation
 
-* Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
+* Simple Test
+* Error messages
+* Exception
+* Fixture
+* With for Testing
+* Data driven
+
+== Sources
 
 * Spock documentation http://spockframework.org/spock/docs/1.3/all_in_one.html
 * Spock Console http://meetspock.appspot.com/
 * Einführung in das Testen mit Spock und Groovy https://www.codeflow.site/de/article/groovy-spock
 * Spock Tutorial https://www.softwaretestinghelp.com/spock-and-groovy/
 * Baeldung https://www.baeldung.com/groovy-spock
+
+* Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
