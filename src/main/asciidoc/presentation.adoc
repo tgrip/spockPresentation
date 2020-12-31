@@ -29,5 +29,6 @@
 * Einführung in das Testen mit Spock und Groovy https://www.codeflow.site/de/article/groovy-spock
 * Spock Tutorial https://www.softwaretestinghelp.com/spock-and-groovy/
 * Baeldung https://www.baeldung.com/groovy-spock
+* Stubbing and Mocking in Java with the Spock Testing Framework https://semaphoreci.com/community/tutorials/stubbing-and-mocking-in-java-with-the-spock-testing-framework
 
 * Presentation in Ascii Doc https://asciidoctor.org/docs/asciidoctor-revealjs/
