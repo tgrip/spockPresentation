@@ -17,6 +17,11 @@
 * With for Testing
 * Data driven
 
+== Spock 2.0
+
+* JUnit 5
+* Groovy 3
+
 == Gotchas
 
 * Maven
