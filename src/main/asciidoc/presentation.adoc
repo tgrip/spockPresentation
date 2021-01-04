@@ -1,5 +1,12 @@
 = Spock presentation
 
+Theodor Grip
+
+Software Testing Karlsruhe
+
+19.01.2021
+
+
 == Groovy
 
 * Similar to Java
@@ -16,6 +23,7 @@
 * Fixture
 * With for Testing
 * Data driven
+* Mocking
 
 == Spock 2.0
 
